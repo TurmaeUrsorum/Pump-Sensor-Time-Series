@@ -50,3 +50,6 @@ attr = "pump_sensor_time_series.__version__"
 [tool.setuptools.packages.find]
 where = [ "src",]
 namespaces = false
+
+[tool.kedro_telemetry]
+project_id = "b9168270a6d84835b09fd0fce4964932"
